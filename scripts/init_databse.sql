@@ -8,7 +8,7 @@ Script Purpose :
     withing the datase: 'bronze', 'silver', 'gold'.
 
 WARNING:
-    Running this scrpt will drop the entire 'DataWarehouse' databse if it exists.
+    Running this script will drop the entire 'DataWarehouse' databse if it exists.
     All data in the database will be permanently deleted. Proceed with caution.
     and ensure proper backups before running this script.
 */
